@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-handoff",
+  "version": "1.0.0",
+  "description": "Compact the current conversation into a handoff document for another agent to pick up.",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "handoff",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-handoff.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-handoff#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
